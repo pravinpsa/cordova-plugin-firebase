@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "80148543187",
+    "project_number": "80148434343187",
     "firebase_url": "https://testfcm-cd9e0.firebaseio.com",
     "project_id": "testfcm-cd9e0",
     "storage_bucket": "testfcm-cd9e0.appspot.com"
@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:80148543187:android:c4f156796959c50b",
+        "mobilesdk_app_id": "1:8014854378187:android:c4f156796959c50b",
         "android_client_info": {
           "package_name": "com.app.testFcm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "80148543187-hfu8tdmshd98k55jjuu2ate7k1jidio2.apps.googleusercontent.com",
+          "client_id": "8014854783187-hfu8tdmshd98k55fzjjuu2ate7k1jidio2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
